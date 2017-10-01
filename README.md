@@ -1,2 +1,2 @@
-# estudos-faculdade
+# Estudos
 Repositórios para os materiais da faculdade
