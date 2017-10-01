@@ -84,5 +84,44 @@ $ | ALI | AIE
  Média | 10 | 7
  Alta | 15 | 10
  
+## Função de Transição
+ 
+**Processo Elementar**
+* Menor atividade que tem significado para o usuário;
+* É auto contido, deixando o negócio da aplicação em um estado consistente;
+
+**Entrada Externa**
+Processo externo que processa dados ou informações de controle vindo de fora da da fronteira da aplicação.
+
+**Intenção Primária**
+* Manter um ou mais ALI's;
+* Alterar comportamento do sistema;
+
+**Regras para classificar as EE**
+* Arquivos referênciados;
+* Contar um ou aquivo para cada ALI mantido;
+* Contar um arquivo para cada ALI ou AIE lido;
+* ALI lido e mantido contar apenas um arquivo;
+* itens de dado referênciados;
+* Contar um item para cada campo de entrada ou saída da fronteira da aplicação;
+* Contar apenas um item se o mesmo entra e saí da fronteira;
+* Contar um item para capacidade de enviar mensagem;
+* Contar um item para a capacidade de especificar uma ou mais ações a serem tomadas
+
+**Nível de Complexidade / Arquivos referênciados**
+
+$ | 1 a 4 | 5 a 15 | 16 ou +
+ --- | --- | --- | ---
+ 0 a 1 | Baixa | Baixa | Média
+ 2 | Baixa | Média | Alta
+ 3 ou + | Média | Alta | Alta
+
+**Cálculo do PF(Ponto de Função) ajustado**
+
+$ | ALI | AIE | EE
+ --- | --- | --- | ---
+ Baixa | 7 | 5 | 3
+ Média | 10 | 7 | 4
+ Alta | 15 | 10 | 6
  
 
