@@ -70,7 +70,7 @@ Conte um tipo de registro para cada subgrupo opcional ou obrigatório de um ALI 
 
 **Itens Referenciados / Registros Lógicos**
 
-| 1 a 19 | 20 a 50 | 51 ou +
+T | 1 a 19 | 20 a 50 | 51 ou +
  --- | --- | --- | ---
  1 | Baixa | Baixa | Média
  2 a 5 | Baixa | Média | Alta
