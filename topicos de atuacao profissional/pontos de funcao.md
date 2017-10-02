@@ -124,4 +124,41 @@ $ | ALI | AIE | EE
  Média | 10 | 7 | 4
  Alta | 15 | 10 | 6
  
+## Saída Externa
 
+Processo elementar cuja inteção primária é enviar dados ou informações de controle para fora da fronteira da aplicação
+
+Regras Adicionais a lógica de processamento (Pelo menos uma)
+* Contém ao menos uma fórmula matemática ou cálculo;
+* Cria dados derivados;
+* Mantém no mínimo um ALI;
+* Altera o comportamento do sistema;
+
+**Arquivos Referênciados**
+
+* Contar um arquivo referenciado para cada ALI ou AIE lido;
+* Contar um arquivo referenciado para cada ALI ou AIE mantido;
+* Contar somente um arquivo referenciado para cada ALI ou AIE;
+
+**Itens de Dados Referenciados**
+
+* Contar um item para cada campo que entra ou sai da fronteira;
+* Contar apenas um item se o campo entrar ou sai da fronteira;
+* Contar um item para mensagens que entra ou sai da fronteira;
+* Contar um item para ação que entra ou sai da fronteira;
+
+**Nível de Complexidade**
+
+$ | 1 a 5 | 6 a 19 | 20 ou +
+ --- | --- | --- | ---
+ 0 a 1 | Baixa | Baixa | Média
+ 2 a 3 | Baixa | Média | Alta
+ 4 ou + | Média | Alta | Alta
+
+**Cálculo do PF(Ponto de Função) não ajustado**
+
+$ | ALI | AIE | EE | SE | CE
+ --- | --- | --- | --- | --- | ---
+ Baixa | 7 | 5 | 3 | 4 | 3
+ Média | 10 | 7 | 4 | 5 | 4
+ Alta | 15 | 10 | 6 | 7 | 6
