@@ -31,4 +31,25 @@ Os instrumentos utilizados para atingir esses objetivos são:
 * Poupança agregada: Parcela da renda nacional que não é consumida no período;
 * Investimento agregado: Gasto com bens que foram produzidos no período mas não foram consumidos e que aumentam a capacidade produtiva da economia nos períodos seguintes;
 * Depreciação: Desgaste do equipamento de capital da economia utilizado num certo período;
+* Produto Nacional bruto é a somatória de todos os bens e serviços produzidos dentro do território nacional em um dado período;
 
+### Questões
+
+1. O elemento que expressa a diferença entre o Produto Interno Bruto e o Produto Nacional Bruto é denominado:
+R.: Renda líquida enviada ao exterior
+
+2. Para atender aos objetivos de políticas econômicas, cabe ao governo o desenho e o controle de políticas econômicas que redirecionem ou corrijam efeitos negativos na economia de seu país ou região.
+R.: 
+II. Entre as políticas de estabilização, podem ser caracterizadas as que visam atender objetivos de curto prazo, como o controle do nível de preços.
+III. O governo dispõe de um conjunto de instrumentos com o objetivo de permitir uma adequada definição e boa implementação das políticas econômicas;
+
+3. Há um extensivo leque de políticas econômicas que procuram estimular o crescimento da capacidade produtiva da economia, ou seja, o aumento da quantidade de bens e serviços ofertados.
+A respeito deste assunto, podemos considerar:
+R.: 
+I. O crescimento econômico refere-se ao aumento da quantidade dos bens e serviços disponíveis na economia, seja para consumo quanto para investimento pelos diferentes agentes econômicos;
+III. O controle da inflação é, inegavelmente, a principal preocupação de quem procura a estabilidade da economia;
+
+4. A Contabilidade Social procura medir os grandes agegados econômicos em determinado período.
+R.: A Despesa Nacional relaciona-se com os gastos dos agentes econômicos em certo período;
+
+5. 
